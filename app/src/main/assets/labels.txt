@@ -1,2 +1,10 @@
 0 Bahu
-1 Sitol
+1 Borali
+2 Eilish
+3 Sitol
+4 Bhagon
+5 Magur
+6 Kuhi
+7 Rou
+8 Mirika
+9 Rupchanda
